@@ -19,7 +19,6 @@ Goal of this project was to learn basics of React.
 4. Coded the website.
 
 
-
 ## What I’ve learned :
 
 - How to work with Hooks in react.
@@ -30,10 +29,8 @@ Goal of this project was to learn basics of React.
 - Working with Libraries in React.
 
 
-
-
 ## How to start : 
-
+1. Launch the project
 
 
 
